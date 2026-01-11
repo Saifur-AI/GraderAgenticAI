@@ -35,7 +35,7 @@ The system follows a directed graph logic to ensure high-quality grading:
 ## 📋 Prerequisites
 
 * **Python 3.10+**
-* **LM Studio** running a local server at `http://10.120.0.46:5000/v1` (or update `LM_STUDIO_URL` in the code).
+* **LM Studio** running a local server at `http:localhost/v1` (or update `LM_STUDIO_URL` in the code).
 * Input Files:
 * `thebook.pdf`: The reference textbook.
 * `student_notebook.pdf`: The student's questions and answers.
