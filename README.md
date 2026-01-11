@@ -1,9 +1,3 @@
-This project is a sophisticated implementation of an **Agentic Workflow** using LangGraph. It demonstrates how to combine Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) and Human-in-the-Loop (HITL) patterns to create a reliable automated grading system.
-
-Below is a professionally formatted `README.md` for your repository.
-
----
-
 # 🎓 Agentic Academic Grader: RAG & Human-in-the-Loop
 
 An intelligent automated grading system built with **LangGraph**, **LangChain**, and **OpenAI/LM Studio**. This project moves beyond simple prompting by using an agentic state machine to handle grading, context retrieval, and human verification.
