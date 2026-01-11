@@ -83,4 +83,3 @@ The system generates a `final_grades.csv` containing:
 * [ ] Multi-modal support for grading diagrams and handwritten notes.
 * [ ] Web UI for the Human-in-the-Loop interface.
 
-**Would you like me to help you write a technical blog post or a LinkedIn snippet to showcase this project?**
